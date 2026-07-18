@@ -63,9 +63,6 @@ services:
 
 volumes:
   canvas-brandable_css:
-    external: true
   canvas-files:
-    external: true
   canvas-postgres:
-    external: true
   canvas-log:
